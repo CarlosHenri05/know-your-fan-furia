@@ -15,7 +15,7 @@ except Exception as e:
 def generate_profile(dados):
   try:
     prompt = f"""
-    Com base nos dados abaixo, escreva um perfil curto e personalizado de um fã de eSports da organização FURIA, especificamente FURIA, e você pode ser sincero se achar que o usuário é um fã ou não:
+    Com base nos dados abaixo, escreva um perfil curto e personalizado de um fã de eSports, seu objetivo é descobrir se sou verdadeiramente fã da FURIA ou não, e você pode ser sincero se achar que o usuário é um fã ou não:
 
     Nome: {dados['nome']}
     Nickname: {dados['nickname']}
