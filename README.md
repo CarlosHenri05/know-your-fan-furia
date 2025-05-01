@@ -108,4 +108,4 @@ Este projeto é uma base para entender e analisar o comportamento de fãs de eSp
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Carlos Henrique](https://github.com/CarlosHenri05) como parte de um desafio Proposto pela organização FURIA para uma vaga de Assistente de engenharia de software.
+Desenvolvido por [Carlos Henrique](https://github.com/CarlosHenri05) como parte de um desafio proposto pela organização FURIA para uma vaga de Assistente de Engenharia de Software.
